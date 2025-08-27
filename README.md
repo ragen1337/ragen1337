@@ -14,7 +14,7 @@ Seamless Migration – Spearheaded the migration of a form builder from Angular 
 
 AR Innovation – Built multiple 3D editors for augmented reality technologies, doubling user-generated content.
 
-💻 Skills and Technologies
+## 💻 Skills and Technologies
 I have extensive experience with a wide range of technologies, including:
 
 Languages:
