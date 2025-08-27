@@ -1,16 +1,18 @@
-Hello and welcome! 👋
-I'm a seasoned Frontend Developer with over 6 years of commercial experience in JavaScript and React.js. For the past two years, I've had the privilege of leading teams, where I focused on bridging the gap between product vision and technical execution.
+👋 Welcome!
 
-I am not just a task-completer; I am a dedicated problem-solver focused on delivering reliable and scalable solutions that truly impact end-users. My experience spans from agile startups to large-scale corporate projects, equipping me with the skills to tackle complex challenges and drive product success.
+I’m a Frontend Developer with 6+ years of hands-on experience building high-quality, scalable applications in JavaScript and React.js. Over the last two years, I’ve also stepped into team leadership, where I focused on aligning product vision with technical execution to deliver real impact.
 
-My Key Achievements
-Team Leadership: Led a development team, managing requirements from product owners and overseeing the full product release lifecycle.
+I’m not just about writing code — I thrive on solving problems, improving performance, and creating seamless user experiences. My background spans agile startups and enterprise-scale projects, giving me the versatility to handle both rapid prototyping and long-term product growth.
 
-Performance Optimization: Significantly improved application performance by reducing page load times and enhancing user experience.
+🚀 Key Achievements
 
-Efficient Migration: Spearheaded a major form builder migration from Angular to React, which condensed the development timeline from 6 months to just 1 month.
+Team Leadership – Led a cross-functional dev team, managing requirements from product owners and overseeing the full release cycle.
 
-Innovation in AR: Developed several 3D editors for augmented reality (AR) technologies, resulting in a twofold increase in user-generated content.
+Performance Optimization – Reduced page load times and significantly boosted app performance and UX.
+
+Seamless Migration – Spearheaded the migration of a form builder from Angular to React, cutting development time from 6 months to just 1 month.
+
+AR Innovation – Built multiple 3D editors for augmented reality technologies, doubling user-generated content.
 
 💻 Skills and Technologies
 I have extensive experience with a wide range of technologies, including:
