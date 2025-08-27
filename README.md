@@ -1,10 +1,10 @@
-👋 Welcome!
+# 👋 Welcome!
 
 I’m a Frontend Developer with 6+ years of hands-on experience building high-quality, scalable applications in JavaScript and React.js. Over the last two years, I’ve also stepped into team leadership, where I focused on aligning product vision with technical execution to deliver real impact.
 
 I’m not just about writing code — I thrive on solving problems, improving performance, and creating seamless user experiences. My background spans agile startups and enterprise-scale projects, giving me the versatility to handle both rapid prototyping and long-term product growth.
 
-🚀 Key Achievements
+# 🚀 Key Achievements
 
 Team Leadership – Led a cross-functional dev team, managing requirements from product owners and overseeing the full release cycle.
 
