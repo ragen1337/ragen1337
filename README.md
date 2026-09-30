@@ -20,4 +20,8 @@ Also Tokio, Axum, gRPC, ClickHouse, RAG and semantic search, plus Claude Code, C
 
 ### Let's talk
 
-I'm open to a senior Rust or backend role. The fastest way to reach me is Telegram at [@ragen1337](https://t.me/ragen1337). [Email](mailto:alexmun568@gmail.com) and [WhatsApp](https://wa.me/821022838565) work too.
+I'm open to a senior Rust or backend role. Telegram is the fastest way to reach me.
+
+<a href="https://t.me/ragen1337"><img src="https://img.shields.io/badge/Telegram-@ragen1337-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+<a href="mailto:alexmun568@gmail.com"><img src="https://img.shields.io/badge/Email-alexmun568@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://wa.me/821022838565"><img src="https://img.shields.io/badge/WhatsApp-message_me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
