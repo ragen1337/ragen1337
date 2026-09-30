@@ -10,7 +10,7 @@ In my free time I work on two products with my co-founders.
 
 <a href="https://github.com/okoflow/looksee"><img src="https://raw.githubusercontent.com/okoflow/looksee/main/.github/screenshots/workflow-editor.jpg" alt="LookSee workflow editor" width="720"></a>
 
-**Sitefield** is a network of websites, each with its own AI assistant built in.
+**Sitefield** is where we try to automate product development itself. It's a network of small web services that share one account and one credits wallet, and each one comes with an AI companion you can talk to by voice. A new service starts from a common template, and coding agents build it out following rules we've written down for them. So far there's one that helps you pick a name and one that guides you through your dreams.
 
 ### Stack
 
