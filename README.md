@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Alex 👋</h1>
 
 <p align="center">
-  <b>Rust & AI developer · co-founder of <a href="https://okoflow.com">OkoFlow</a></b><br>
+  <b>Senior Rust backend developer · AI · co-founder of <a href="https://okoflow.com">OkoFlow</a></b><br>
   Seoul, South Korea · <b>open to work</b>
 </p>
 
@@ -13,9 +13,9 @@
 
 ---
 
-I build backend systems that move a lot of data and stay correct while doing it: event pipelines, stream processing, and the infrastructure around AI models. I like Rust for the hot path, measurements over guesses, and designs whose failure modes are written down.
+I've been building software commercially for 6+ years, the last 4 in Rust. Most of that is high-load backend: telemetry ingestion at up to 200K messages/s, Kafka pipelines where losing or duplicating an event is a bug, and media processing on AWS. Lately I also build AI features, such as RAG chatbots and semantic search, and I work agent-first with Claude Code, Codex and MCP.
 
-I'm looking for a **Rust, backend or AI engineering** role.
+I'm looking for a **senior Rust / backend** role, ideally one with an AI side. English C1, Russian native.
 
 ## Projects
 
@@ -33,7 +33,7 @@ An event analytics pipeline: HTTP ingestion → Kafka → batched writes → Cli
 
 ## Stack
 
-**Languages** · Rust, Python, TypeScript<br>
-**Backend** · tokio, actix-web, Kafka, ClickHouse, PostgreSQL, REST<br>
-**AI / CV** · ONNX Runtime, object detection, video pipelines<br>
-**Infra** · Docker Compose, GitHub Actions, Prometheus, Grafana
+**Languages** · Rust, TypeScript, Python<br>
+**Backend** · Tokio, Axum, actix-web, Tonic (gRPC), Kafka, PostgreSQL, ClickHouse, Redis<br>
+**Cloud & infra** · AWS (EC2, Lambda, S3, SQS, SNS), Kubernetes, Docker, Prometheus, Grafana<br>
+**AI** · RAG, embeddings, semantic search, ONNX Runtime, Claude Code, Codex, MCP
