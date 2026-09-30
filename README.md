@@ -20,7 +20,7 @@ Also Tokio, Axum, gRPC, ClickHouse, RAG and semantic search, plus Claude Code, C
 
 ### Let's talk
 
-I'm open to a senior Rust or backend role. Telegram is the fastest way to reach me.
+I'm open to Rust and AI developer roles. Telegram is the fastest way to reach me.
 
 <a href="https://t.me/ragen1337" title="Telegram @ragen1337"><img src="https://cdn.simpleicons.org/telegram/26A5E4" alt="Telegram" width="36" height="36"></a>&nbsp;&nbsp;&nbsp;
 <a href="mailto:alexmun568@gmail.com" title="alexmun568@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="36" height="36"></a>&nbsp;&nbsp;&nbsp;
