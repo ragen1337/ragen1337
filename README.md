@@ -12,9 +12,14 @@ I'm open to a senior Rust or backend role, especially at a team that takes AI in
 
 **[rust-realtime-analytics](https://github.com/ragen1337/rust-realtime-analytics)** is a pet project where I wanted to see how far Kafka and ClickHouse go on a single laptop. The answer was about 5,000 events a second with a p99 under 10 ms, without losing a single event.
 
-### Tools I use most
+### Stack
 
-Rust with Tokio and Axum, Kafka, PostgreSQL, ClickHouse, Redis, AWS and Kubernetes. Python and TypeScript when a product needs them. For development I rely on Claude Code and Codex, plus MCP to connect them to everything else.
+- **Languages:** Rust, TypeScript, JavaScript, Python
+- **Backend:** Tokio, Axum, Tonic (gRPC), Tower, Rayon, REST APIs, microservices, event-driven architecture
+- **Data:** Apache Kafka, Avro, Schema Registry, PostgreSQL, ClickHouse, Redis, DynamoDB
+- **Cloud & DevOps:** AWS (Lambda, EC2, S3, SQS, SNS, MediaConvert, CloudWatch), Kubernetes, Docker, Linux, CI/CD
+- **AI:** Gemini, RAG, embeddings, semantic search, LLM integration, Claude Code, Codex, MCP
+- **Other:** Grafana, Prometheus, ffmpeg, WebAssembly, React, Three.js
 
 ### Say hi
 
