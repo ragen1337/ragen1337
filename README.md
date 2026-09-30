@@ -1,6 +1,6 @@
 ## Hey, I'm Alex
 
-Rust and AI developer in Seoul. These days I build AI products and write most of my code with agents. I've been writing backends commercially for six-plus years, the last four in Rust, most of it high-load: Kafka pipelines, and a telemetry intake that handled about 200K messages a second.
+Rust and AI developer with six-plus years of commercial experience, most of it on high-load backends: Kafka pipelines, and a telemetry intake that handled about 200K messages a second. Right now my focus is on AI products.
 
 ### Currently building
 
