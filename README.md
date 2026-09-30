@@ -4,9 +4,13 @@ Backend developer in Seoul, mostly writing Rust. I've done this commercially for
 
 ### Currently building
 
-In my free time I'm working on [LookSee](https://github.com/okoflow/looksee) with my co-founders at OkoFlow. You connect your cameras, drag a few blocks together in a visual editor, and it starts spotting what you care about and pinging you. It all runs on your own hardware.
+In my free time I work on two products with my co-founders.
+
+**[LookSee](https://github.com/okoflow/looksee)** is video analytics you host yourself. You connect your cameras, drag a few blocks together in a visual editor, and it starts spotting what you care about and pinging you.
 
 <a href="https://github.com/okoflow/looksee"><img src="https://raw.githubusercontent.com/okoflow/looksee/main/.github/screenshots/workflow-editor.jpg" alt="LookSee workflow editor" width="720"></a>
+
+**Sitefield** is a network of websites, each with its own AI assistant built in.
 
 ### Stack
 
