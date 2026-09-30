@@ -1,20 +1,19 @@
 ## Hey, I'm Alex
 
-I'm a backend developer living in Seoul, and I mostly write Rust. I've been doing this commercially for six-plus years, the last four of them in Rust: high-load services and Kafka pipelines, including a telemetry intake that handled around 200K messages a second.
+Backend developer in Seoul, mostly writing Rust. I've done this commercially for six-plus years, most of it high-load: Kafka pipelines, and a telemetry intake that handled about 200K messages a second. Lately I've been building AI features too, and I write most of my code with agents.
 
-In my free time I'm building [LookSee](https://github.com/okoflow/looksee) with my co-founders at [OkoFlow](https://okoflow.com). It's self-hosted video analytics. You connect your cameras, set up a small workflow in a visual editor (which model to run, which zone to watch, what to do when something shows up), and it all runs on your own hardware. AI is part of both the product and how we build it: object detection runs on ONNX, and most of the code goes through coding agents. [Website](https://looksee.okoflow.com), [docs](https://github.com/okoflow/looksee-docs).
+### Currently building
 
-I'm open to a senior Rust or backend role, especially at a team that takes AI in development seriously.
+In my free time I'm working on [LookSee](https://github.com/okoflow/looksee) with my co-founders at OkoFlow. You connect your cameras, drag a few blocks together in a visual editor, and it starts spotting what you care about and pinging you. It all runs on your own hardware.
+
+<a href="https://github.com/okoflow/looksee"><img src="https://raw.githubusercontent.com/okoflow/looksee/main/.github/screenshots/workflow-editor.jpg" alt="LookSee workflow editor" width="720"></a>
 
 ### Stack
 
-- **Languages:** Rust, TypeScript, JavaScript, Python
-- **Backend:** Tokio, Axum, Tonic (gRPC), Tower, Rayon, REST APIs, microservices, event-driven architecture
-- **Data:** Apache Kafka, Avro, Schema Registry, PostgreSQL, ClickHouse, Redis, DynamoDB
-- **Cloud & DevOps:** AWS (Lambda, EC2, S3, SQS, SNS, MediaConvert, CloudWatch), Kubernetes, Docker, Linux, CI/CD
-- **AI:** Gemini, RAG, embeddings, semantic search, LLM integration, Claude Code, Codex, MCP
-- **Other:** Grafana, Prometheus, ffmpeg, WebAssembly, React, Three.js
+<img src="https://skillicons.dev/icons?i=rust,ts,py,kafka,postgres,redis,aws,kubernetes,docker,grafana&perline=10" alt="Rust, TypeScript, Python, Kafka, PostgreSQL, Redis, AWS, Kubernetes, Docker, Grafana">
 
-### Say hi
+Also Tokio, Axum, gRPC, ClickHouse, RAG and semantic search, plus Claude Code, Codex and MCP.
 
-Telegram is the fastest way to reach me: [@ragen1337](https://t.me/ragen1337). You can also use [email](mailto:alexmun568@gmail.com) or [WhatsApp](https://wa.me/821022838565). I speak English and Russian.
+### Let's talk
+
+I'm open to a senior Rust or backend role. The fastest way to reach me is Telegram at [@ragen1337](https://t.me/ragen1337). [Email](mailto:alexmun568@gmail.com) and [WhatsApp](https://wa.me/821022838565) work too.
