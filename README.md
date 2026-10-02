@@ -12,6 +12,8 @@ In my free time I work on two products with my co-founders.
 
 **[Sitefield](https://sitefield.net/)** is a network of web services with AI assistants, built mostly by coding agents. It's live now. The first service is [NightAtlas](https://nightatlas.net/), a dream journal where you write down your dreams and explore their themes with AI.
 
+<a href="https://nightatlas.net/"><img src="assets/nightatlas.jpg" alt="NightAtlas home page" width="600"></a>
+
 ### Stack
 
 <img src="https://skillicons.dev/icons?i=rust,ts,py,kafka,postgres,redis,aws,kubernetes,docker,grafana&perline=10" alt="Rust, TypeScript, Python, Kafka, PostgreSQL, Redis, AWS, Kubernetes, Docker, Grafana">
