@@ -10,7 +10,7 @@ In my free time I work on two products with my co-founders.
 
 <a href="https://github.com/okoflow/looksee"><img src="https://raw.githubusercontent.com/okoflow/looksee/main/.github/screenshots/workflow-editor.jpg" alt="LookSee workflow editor" width="600"></a>
 
-**Sitefield** is a network of web services with AI assistants, built mostly by coding agents. It's closed for now, and the MVP is coming soon.
+**[Sitefield](https://sitefield.net/)** is a network of web services with AI assistants, built mostly by coding agents. It's live now. The first service is [NightAtlas](https://nightatlas.net/), a dream journal where you write down your dreams and explore their themes with AI.
 
 ### Stack
 
